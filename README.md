@@ -1,7 +1,6 @@
-- 👋 Hi, I’m harsh mishra
-- 👀 I’m interested in building cybersecurity tools
+- 👋 Hi, I’m Harsh Mishra
+- 👀 I’m interested in building Cybersecurity tools
 - 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on projects related to system security
 - 📫 How to reach me : mishraharsh0508@gmail.com
 
 
